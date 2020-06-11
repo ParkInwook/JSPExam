@@ -7,9 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
-	깃 프로젝트 적용시키기 시험입니다.
-	하고싶은 말을 추가하세요
+	A: 안녕하세요 !! 저는 한건희 교육생입니다.
+	7번 문제 test 합니다.
 	
 </body>
 </html>
