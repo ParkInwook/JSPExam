@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
-	깃 프로젝트 적용시키기 시험입니다.
-	하고싶은 말을 추가하세요
-	문항 7번
-	아아아아
-	
+aaa
 </body>
 </html>
