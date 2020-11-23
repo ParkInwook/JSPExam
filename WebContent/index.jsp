@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 	
 	깃 프로젝트 적용시키기 시험입니다.
 	하고싶은 말을 추가하세요
+	아니 왜 build path가 없을까요 
 	
 </body>
 </html>
